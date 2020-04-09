@@ -1,0 +1,317 @@
+[
+    {
+        "title": "Recommendation",
+        "buttonTitle": "See all",
+        "id": "1",
+        "type": "masthead",
+        "data": [
+            {
+                "_id": "5cc058281c9d44000071a434",
+                "id": "5cc058281c9d44000071a434",
+                "title": "Baahubali 2 - The Conclusion",
+                "description": "Baahubali 2: The Conclusion released in 2017 is one of the biggest historical epic action films ever made in Indian Cinema starring Prabhas, Anushka Shetty, Rana Daggubati and Sathyaraj in lead roles.",
+                "publishAt": "2017-11-14T17:10:36.756Z",
+                "imageUrl": "https://cf-images.ap-southeast-1.prod.boltdns.net/v1/static/5182475815001/9bba7ac3-56c7-40c1-a182-1fcb0b75504e/75854b02-7e84-4749-9893-5060f2b28071/1600x600/match/image.jpg",
+                "hlsUrl": "https://bitmovin-a.akamaihd.net/content/playhouse-vr/m3u8s/105560.m3u8",
+                "type": "movie",
+                "genre": "Drama"
+            },
+            {
+                "_id": "5cc0597d1c9d44000071a435",
+                "id": "5cc0597d1c9d44000071a435",
+                "title": "Saala Khadoos",
+                "description": "Saala Khadoos released in 2016 is a story of a former boxer Adi Tomar who quits boxing following a fallout with the authorities over the underlying politics but goes on to coach a fisherwoman to fulfill his dream through her",
+                "publishAt": "2017-09-24T00:46:14.818Z",
+                "imageUrl": "https://cf-images.ap-southeast-1.prod.boltdns.net/v1/static/5182475815001/8ec76567-99ff-49b5-9d33-6185336c814f/32b1e80e-9655-42dc-bb33-81634c1557da/640x360/match/image.jpg",
+                "hlsUrl": "https://bitmovin-a.akamaihd.net/content/playhouse-vr/m3u8s/105560.m3u8",
+                "type": "movie",
+                "genre": "Action"
+            },
+            {
+                "_id": "5cc059e11c9d44000071a436",
+                "id": "5cc059e11c9d44000071a436",
+                "title": "Sketch (Hindi)",
+                "description": "Sketch released in 2018 is a Hindi dubbed movie starring Vikram and Tamannaah. The movie begins with Jeeva (Sketch) narrating his story. His uncle used to tow and bring back vehicles for which the monthly EMI hadn't been paid. However, during a...",
+                "publishAt": "2018-09-14T09:46:39.490Z",
+                "imageUrl": "https://cf-images.ap-southeast-1.prod.boltdns.net/v1/static/5182475815001/10d9dacd-68fc-4f3c-adef-7cf03bb375d3/4c6759c6-ce88-4a16-9987-e47d4fab3e62/1920x1080/match/image.jpg",
+                "hlsUrl": "https://bitmovin-a.akamaihd.net/content/playhouse-vr/m3u8s/105560.m3u8",
+                "type": "movie",
+                "genre": "Action"
+            },
+            {
+                "_id": "5cc0529e1c9d44000071a42e",
+                "title": "No Excuses To Stay Fit",
+                "id": "5cc044b31c9d44000071a42a",
+                "hlsUrl": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+                "imageUrl": "https://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_80,e_contrast:30,e_brightness:10/http%3A%2F%2Fhttpsony-a.akamaihd.net%2F5182475815001%2F5182475815001_5833489329001_5832013669001-th.jpg%3FpubId%3D5182475815001%26videoId%3D5832013669001",
+                "description": "This is a video series highlighting top popular athletes making ‘No Excuses’ to stay fit, muscles involved in playing their respective sports, how they push themselves to train and fun fitness trivia",
+                "publishAt": "2019-10-14T10:25:53.583Z",
+                "type": "show",
+                "genre": "Fitness"
+            },
+            {
+                "_id": "5cc054421c9d44000071a42f",
+                "title": "Bhakharwadi",
+                "id": "5cc04a611c9d44000071a42b",
+                "hlsUrl": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+                "imageUrl": "http://httpsony-a.akamaihd.net/5182475815001/5182475815001_6000739238001_6000733755001-th.jpg?pubId=5182475815001&videoId=6000733755001",
+                "description": "he story of Bhakharwadi revolves around two families that hail from different cultures living in the same city, Pune as neighbors. Both are competitors in business. The former runs an ancestral shop of bhakharwadi and is a follower of traditions",
+                "publishAt": "2019-02-11T10:25:53.583Z\"",
+                "type": "show",
+                "genre": "Comedy"
+            }
+        ]
+    },
+    {
+        "title": "Videos",
+        "buttonTitle": "See all",
+        "id": "2",
+        "type": "landscape",
+        "data": [
+            {
+                "_id": "5cc058281c9d44000071a434",
+                "id": "5cc058281c9d44000071a434",
+                "title": "Baahubali 2 - The Conclusion",
+                "description": "Baahubali 2: The Conclusion released in 2017 is one of the biggest historical epic action films ever made in Indian Cinema starring Prabhas, Anushka Shetty, Rana Daggubati and Sathyaraj in lead roles.",
+                "publishAt": "2017-11-14T17:10:36.756Z",
+                "imageUrl": "https://cf-images.ap-southeast-1.prod.boltdns.net/v1/static/5182475815001/9bba7ac3-56c7-40c1-a182-1fcb0b75504e/75854b02-7e84-4749-9893-5060f2b28071/1600x600/match/image.jpg",
+                "hlsUrl": "https://bitmovin-a.akamaihd.net/content/playhouse-vr/m3u8s/105560.m3u8",
+                "type": "movie",
+                "genre": "Drama"
+            },
+            {
+                "_id": "5cc0597d1c9d44000071a435",
+                "id": "5cc0597d1c9d44000071a435",
+                "title": "Saala Khadoos",
+                "description": "Saala Khadoos released in 2016 is a story of a former boxer Adi Tomar who quits boxing following a fallout with the authorities over the underlying politics but goes on to coach a fisherwoman to fulfill his dream through her",
+                "publishAt": "2017-09-24T00:46:14.818Z",
+                "imageUrl": "https://cf-images.ap-southeast-1.prod.boltdns.net/v1/static/5182475815001/8ec76567-99ff-49b5-9d33-6185336c814f/32b1e80e-9655-42dc-bb33-81634c1557da/640x360/match/image.jpg",
+                "hlsUrl": "https://bitmovin-a.akamaihd.net/content/playhouse-vr/m3u8s/105560.m3u8",
+                "type": "movie",
+                "genre": "Action"
+            },
+            {
+                "title": "Ashwini Ponnappa - Fitness Trivia Challenge",
+                "id": "5cc044b31c9d44000071a42ae2",
+                "showId": "5cc044b31c9d44000071a42a",
+                "hlsUrl": "http://manifest.prod.boltdns.net/manifest/v1/hls/v3/aes128/5182475815001/65696901-4f61-4855-b0f4-96fa9954d4a2/10s/master.m3u8?fastly_token=NWNlN2Q4YzBfMGNkYTFiMGYxM2M5MWNmNzFmY2JjN2FmMzVhMmVhOWQ2MTdiMWFkYTVmODcxY2ViMWE1MDZlN2U5MWI5YjdmZA%3D%3D",
+                "imageUrl": "https://cf-images.ap-southeast-1.prod.boltdns.net/v1/static/5182475815001/65696901-4f61-4855-b0f4-96fa9954d4a2/84568058-24b4-4f24-9c74-39a90b08cabe/1920x1080/match/image.jpg",
+                "description": "The ace shuttler & Red Bull Athlete Ashwini Ponnappa answering Trivia Questions related to her sport while running on the treadmill",
+                "publishAt": "2018-09-14T06:45:10.681Z",
+                "type": "video",
+                "genre": "Fitness"
+            },
+            {
+                "title": "Manpreet Singh - Fitness Trivia Challenge",
+                "id": "5cc044b31c9d44000071a42ae3",
+                "showId": "5cc044b31c9d44000071a42a",
+                "hlsUrl": "https://bitmovin-a.akamaihd.net/content/playhouse-vr/m3u8s/105560.m3u8",
+                "imageUrl": "https://cf-images.ap-southeast-1.prod.boltdns.net/v1/static/5182475815001/d8a186f6-c775-4695-86d2-6151e4534414/e573ef88-aba1-4e0a-8f6f-c9f80f2be5fa/1920x1080/match/image.jpg",
+                "description": "The Indian national hockey team captain & Red Bull Athlete Manpreet Singh answering Trivia Questions related to his sport while working out in the gym",
+                "publishAt": "2018-09-14T06:46:21.898Z",
+                "type": "video",
+                "genre": "Fitness"
+            },
+            {
+                "title": "Ashwini Ponnappa - Fitness Trivia Challenge",
+                "id": "5cc044b31c9d44000071a42ae4",
+                "showId": "5cc044b31c9d44000071a42a",
+                "hlsUrl": "https://bitmovin-a.akamaihd.net/content/playhouse-vr/m3u8s/105560.m3u8",
+                "imageUrl": "https://cf-images.ap-southeast-1.prod.boltdns.net/v1/static/5182475815001/4c6a568b-c75a-45e8-b8bb-62791a411342/436d2773-2c12-41a5-802a-d785d69a5456/1920x1080/match/image.jpg",
+                "description": "The ace shuttler & Red Bull Athlete Ashwini Ponnappa tells us about the muscles involved in playing badminton, how her game differs from other players, and how she keeps fit by making no excuses.",
+                "publishAt": "2018-09-14T06:45:10.681Z",
+                "type": "video",
+                "genre": "Fitness"
+            }
+        ]
+    },
+    {
+        "title": "Movies",
+        "buttonTitle": "See all",
+        "id": "3",
+        "type": "portrait",
+        "data": [
+            {
+                "_id": "5cc058281c9d44000071a434",
+                "id": "5cc058281c9d44000071a434",
+                "title": "Baahubali 2 - The Conclusion",
+                "description": "Baahubali 2: The Conclusion released in 2017 is one of the biggest historical epic action films ever made in Indian Cinema starring Prabhas, Anushka Shetty, Rana Daggubati and Sathyaraj in lead roles.",
+                "publishAt": "2017-11-14T17:10:36.756Z",
+                "imageUrl": "https://cf-images.ap-southeast-1.prod.boltdns.net/v1/static/5182475815001/9bba7ac3-56c7-40c1-a182-1fcb0b75504e/75854b02-7e84-4749-9893-5060f2b28071/1600x600/match/image.jpg",
+                "hlsUrl": "https://bitmovin-a.akamaihd.net/content/playhouse-vr/m3u8s/105560.m3u8",
+                "type": "movie",
+                "genre": "Drama"
+            },
+            {
+                "_id": "5cc0597d1c9d44000071a435",
+                "id": "5cc0597d1c9d44000071a435",
+                "title": "Saala Khadoos",
+                "description": "Saala Khadoos released in 2016 is a story of a former boxer Adi Tomar who quits boxing following a fallout with the authorities over the underlying politics but goes on to coach a fisherwoman to fulfill his dream through her",
+                "publishAt": "2017-09-24T00:46:14.818Z",
+                "imageUrl": "https://cf-images.ap-southeast-1.prod.boltdns.net/v1/static/5182475815001/8ec76567-99ff-49b5-9d33-6185336c814f/32b1e80e-9655-42dc-bb33-81634c1557da/640x360/match/image.jpg",
+                "hlsUrl": "https://bitmovin-a.akamaihd.net/content/playhouse-vr/m3u8s/105560.m3u8",
+                "type": "movie",
+                "genre": "Action"
+            },
+            {
+                "_id": "5cc059e11c9d44000071a436",
+                "id": "5cc059e11c9d44000071a436",
+                "title": "Sketch (Hindi)",
+                "description": "Sketch released in 2018 is a Hindi dubbed movie starring Vikram and Tamannaah. The movie begins with Jeeva (Sketch) narrating his story. His uncle used to tow and bring back vehicles for which the monthly EMI hadn't been paid. However, during a...",
+                "publishAt": "2018-09-14T09:46:39.490Z",
+                "imageUrl": "https://cf-images.ap-southeast-1.prod.boltdns.net/v1/static/5182475815001/10d9dacd-68fc-4f3c-adef-7cf03bb375d3/4c6759c6-ce88-4a16-9987-e47d4fab3e62/1920x1080/match/image.jpg",
+                "hlsUrl": "https://bitmovin-a.akamaihd.net/content/playhouse-vr/m3u8s/105560.m3u8",
+                "type": "movie",
+                "genre": "Action"
+            },
+            {
+                "_id": "5cc05a7e1c9d44000071a437",
+                "id": "5cc05a7e1c9d44000071a437",
+                "title": "Veedu Theda (Telugu)",
+                "description": "Veedu Theda is a Telugu movie Starring Nikhil, Pooja Bose, Ali and M.S.Narayana.",
+                "publishAt": "2018-04-23T08:46:39.134Z",
+                "imageUrl": "https://cf-images.ap-southeast-1.prod.boltdns.net/v1/jit/5182475815001/425ceb42-5e39-4d13-9fe2-8d6f2556a82e/main/1920x1080/1h6m3s146ms/match/image.jpg",
+                "hslurl": "http://manifest.prod.boltdns.net/manifest/v1/hls/v3/aes128/5182475815001/425ceb42-5e39-4d13-9fe2-8d6f2556a82e/10s/master.m3u8?fastly_token=NWNlNTVjYzFfMzlmZTBhMmQyOGQzODlhNDRmODY2ZWFkN2FjMTlhYmQ0YThhNDc3ZGM5YWU4NDBlMGIwNWIzMGY0MzkyZWJjMQ%3D%3D",
+                "type": "movie",
+                "genre": "Drama"
+            },
+            {
+                "_id": "5cc05b201c9d44000071a438",
+                "id": "5cc05b201c9d44000071a438",
+                "title": "Yuvaratna Raana (Telugu)",
+                "description": "Yuvaratna Raana is a Telugu Movie Starring Balakrishna, Bhagasri and Heera.",
+                "publishAt": "2018-05-02T06:26:30.568Z",
+                "imageUrl": "https://cf-images.ap-southeast-1.prod.boltdns.net/v1/jit/5182475815001/59ba8888-0c53-4fca-81ae-4003dede0ec7/main/1920x1080/1h16m17s583ms/match/image.jpg",
+                "hlsUrl": "http://manifest.prod.boltdns.net/manifest/v1/hls/v3/aes128/5182475815001/59ba8888-0c53-4fca-81ae-4003dede0ec7/10s/master.m3u8?fastly_token=NWNlNTYyNWJfNzE0MzdkOTMzYTg4OTlhYTI4NTg1ODI4MDU4ZGJlYTM4YjcwNzhiMDg2NmRjMTE3ZTk3N2RjMmU0ZGNkNzk4Mw%3D%3D",
+                "type": "movie",
+                "genre": "Drama"
+            }
+        ]
+    },
+    {
+        "title": "Shows",
+        "buttonTitle": "See all",
+        "id": "4",
+        "type": "landscape",
+        "data": [
+            {
+                "_id": "5cc0529e1c9d44000071a42e",
+                "title": "No Excuses To Stay Fit",
+                "id": "5cc044b31c9d44000071a42a",
+                "hlsUrl": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+                "imageUrl": "https://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_80,e_contrast:30,e_brightness:10/http%3A%2F%2Fhttpsony-a.akamaihd.net%2F5182475815001%2F5182475815001_5833489329001_5832013669001-th.jpg%3FpubId%3D5182475815001%26videoId%3D5832013669001",
+                "description": "This is a video series highlighting top popular athletes making ‘No Excuses’ to stay fit, muscles involved in playing their respective sports, how they push themselves to train and fun fitness trivia",
+                "publishAt": "2019-10-14T10:25:53.583Z",
+                "type": "show",
+                "genre": "Fitness"
+            },
+            {
+                "_id": "5cc054421c9d44000071a42f",
+                "title": "Bhakharwadi",
+                "id": "5cc04a611c9d44000071a42b",
+                "hlsUrl": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+                "imageUrl": "http://httpsony-a.akamaihd.net/5182475815001/5182475815001_6000739238001_6000733755001-th.jpg?pubId=5182475815001&videoId=6000733755001",
+                "description": "he story of Bhakharwadi revolves around two families that hail from different cultures living in the same city, Pune as neighbors. Both are competitors in business. The former runs an ancestral shop of bhakharwadi and is a follower of traditions",
+                "publishAt": "2019-02-11T10:25:53.583Z\"",
+                "type": "show",
+                "genre": "Comedy"
+            },
+            {
+                "_id": "5cc054b81c9d44000071a430",
+                "title": "UEFA Europa League",
+                "id": "5cc0509c1c9d44000071a42d",
+                "hlsUrl": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+                "imageUrl": "https://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_80,e_contrast:30,e_brightness:10/http%3A%2F%2Fhttpsony-a.akamaihd.net%2F5182475815001%2F5182475815001_5845959188001_5613439198001-th.jpg%3FpubId%3D5182475815001%26videoId%3D5613439198001",
+                "description": "The UEFA Europa League, previously known as the UEFA Cup, is an annually held football club competition organised by UEFA since 1971 for eligible European football clubs. The clubs qualify for the competition based on their performance in their nation",
+                "publishAt": "2018-08-31T20:09:55.727Z",
+                "type": "show",
+                "genre": "Football"
+            },
+            {
+                "_id": "5cc0557e1c9d44000071a431",
+                "title": "Patiala Babes",
+                "id": "5cc0557e1c9d44000071a431",
+                "hlsUrl": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+                "imageUrl": "http://httpsony-a.akamaihd.net/5182475815001/5182475815001_5972440316001_5971988842001-vs.jpg?pubId=5182475815001&videoId=5971988842001",
+                "description": "Patiala Babes revolves around the bond shared between a mother and daughter. The mother is old school, while the daughter is modern in her thinking.",
+                "publishAt": "2018-11-27T07:55:22.314Z",
+                "type": "show",
+                "genre": "Drama"
+            },
+            {
+                "_id": "5cc056231c9d44000071a432",
+                "title": "My Name Ijj Lakhan",
+                "id": "5cc056231c9d44000071a432",
+                "hlsUrl": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+                "imageUrl": "http://httpsony-a.akamaihd.net/5182475815001/5182475815001_5995305824001_5993684528001-vs.jpg?pubId=5182475815001&videoId=5993684528001",
+                "description": "My Name Ijj Lakhan is the story of Lakhan, a goon who has decided to give up his illegal ways and become an honest man. Lakhan might have changed the path but he doesn’t know how to walk on it",
+                "publishAt": "2019-01-25T17:14:05.157Z",
+                "type": "show",
+                "genre": "Comedy"
+            }
+        ]
+    },
+    {
+        "title": "Recommendation",
+        "buttonTitle": "See all",
+        "id": "5",
+        "type": "landscape",
+        "data": [
+            {
+                "_id": "5cc0529e1c9d44000071a42e",
+                "title": "No Excuses To Stay Fit",
+                "id": "5cc044b31c9d44000071a42a",
+                "hlsUrl": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+                "imageUrl": "https://resources.sonyliv.com/image/fetch/h_254,w_438,c_fill,fl_lossy,f_auto,q_80,e_contrast:30,e_brightness:10/http%3A%2F%2Fhttpsony-a.akamaihd.net%2F5182475815001%2F5182475815001_5833489329001_5832013669001-th.jpg%3FpubId%3D5182475815001%26videoId%3D5832013669001",
+                "description": "This is a video series highlighting top popular athletes making ‘No Excuses’ to stay fit, muscles involved in playing their respective sports, how they push themselves to train and fun fitness trivia",
+                "publishAt": "2019-10-14T10:25:53.583Z",
+                "type": "show",
+                "genre": "Fitness"
+            },
+            {
+                "_id": "5cc054421c9d44000071a42f",
+                "title": "Bhakharwadi",
+                "id": "5cc04a611c9d44000071a42b",
+                "hlsUrl": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+                "imageUrl": "http://httpsony-a.akamaihd.net/5182475815001/5182475815001_6000739238001_6000733755001-th.jpg?pubId=5182475815001&videoId=6000733755001",
+                "description": "he story of Bhakharwadi revolves around two families that hail from different cultures living in the same city, Pune as neighbors. Both are competitors in business. The former runs an ancestral shop of bhakharwadi and is a follower of traditions",
+                "publishAt": "2019-02-11T10:25:53.583Z\"",
+                "type": "show",
+                "genre": "Comedy"
+            },
+            {
+                "_id": "5cc059e11c9d44000071a436",
+                "id": "5cc059e11c9d44000071a436",
+                "title": "Sketch (Hindi)",
+                "description": "Sketch released in 2018 is a Hindi dubbed movie starring Vikram and Tamannaah. The movie begins with Jeeva (Sketch) narrating his story. His uncle used to tow and bring back vehicles for which the monthly EMI hadn't been paid. However, during a...",
+                "publishAt": "2018-09-14T09:46:39.490Z",
+                "imageUrl": "https://cf-images.ap-southeast-1.prod.boltdns.net/v1/static/5182475815001/10d9dacd-68fc-4f3c-adef-7cf03bb375d3/4c6759c6-ce88-4a16-9987-e47d4fab3e62/1920x1080/match/image.jpg",
+                "hlsUrl": "https://bitmovin-a.akamaihd.net/content/playhouse-vr/m3u8s/105560.m3u8",
+                "type": "movie",
+                "genre": "Action"
+            },
+            {
+                "_id": "5cc05a7e1c9d44000071a437",
+                "id": "5cc05a7e1c9d44000071a437",
+                "title": "Veedu Theda (Telugu)",
+                "description": "Veedu Theda is a Telugu movie Starring Nikhil, Pooja Bose, Ali and M.S.Narayana.",
+                "publishAt": "2018-04-23T08:46:39.134Z",
+                "imageUrl": "https://cf-images.ap-southeast-1.prod.boltdns.net/v1/jit/5182475815001/425ceb42-5e39-4d13-9fe2-8d6f2556a82e/main/1920x1080/1h6m3s146ms/match/image.jpg",
+                "hslurl": "http://manifest.prod.boltdns.net/manifest/v1/hls/v3/aes128/5182475815001/425ceb42-5e39-4d13-9fe2-8d6f2556a82e/10s/master.m3u8?fastly_token=NWNlNTVjYzFfMzlmZTBhMmQyOGQzODlhNDRmODY2ZWFkN2FjMTlhYmQ0YThhNDc3ZGM5YWU4NDBlMGIwNWIzMGY0MzkyZWJjMQ%3D%3D",
+                "type": "movie",
+                "genre": "Drama"
+            },
+            {
+                "_id": "5cc05b201c9d44000071a438",
+                "id": "5cc05b201c9d44000071a438",
+                "title": "Yuvaratna Raana (Telugu)",
+                "description": "Yuvaratna Raana is a Telugu Movie Starring Balakrishna, Bhagasri and Heera.",
+                "publishAt": "2018-05-02T06:26:30.568Z",
+                "imageUrl": "https://cf-images.ap-southeast-1.prod.boltdns.net/v1/jit/5182475815001/59ba8888-0c53-4fca-81ae-4003dede0ec7/main/1920x1080/1h16m17s583ms/match/image.jpg",
+                "hlsUrl": "http://manifest.prod.boltdns.net/manifest/v1/hls/v3/aes128/5182475815001/59ba8888-0c53-4fca-81ae-4003dede0ec7/10s/master.m3u8?fastly_token=NWNlNTYyNWJfNzE0MzdkOTMzYTg4OTlhYTI4NTg1ODI4MDU4ZGJlYTM4YjcwNzhiMDg2NmRjMTE3ZTk3N2RjMmU0ZGNkNzk4Mw%3D%3D",
+                "type": "movie",
+                "genre": "Drama"
+            }
+        ]
+    }
+]
